@@ -1,5 +1,5 @@
 # INTC_Stock_Model
-Regression model fore predicting INTC stock prices, with other IT stock price data. Report and Analysis are below: 
+Regression model for predicting INTC stock prices, with other IT stock price data. Report and Analysis are below: 
 
 ## Executive Summary:
 In the wake of COVID 19 and the recent Ukraine - Russia Crisis, global supply chain operations have been shocked around the world. Industries ranging from agriculture, technology, consumer goods and pharmaceuticals have all faced the consequences of recent supply chain shocks. Market behaviors have reflected this behavior with the S&P 500, NASDAQ and DOW Jones all decreasing at 1.63%, 1.68% and 1.96% respectively within the past 6 months, showing how recent global tensions between NATO, Russia and China have caused decreases in market indexes. In particular, the semiconductor industry has seen some of the largest losses in the past few months in terms of stock prices and overall buy side sentiment.
